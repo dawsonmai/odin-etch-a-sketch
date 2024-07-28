@@ -1,0 +1,25 @@
+
+#container{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+.buttonCont{
+    text-align: center;
+    margin: auto;
+    align-items: center;
+    padding: 40px;
+}
+
+#reset{
+    width: 150px;
+    height: 30px;
+    font-size: 12px;
+    border-style: hidden;
+    background-color: black;
+    color: white;
+}
